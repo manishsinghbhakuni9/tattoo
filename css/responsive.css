@@ -1,0 +1,27 @@
+@media screen and (max-width: 768px) {
+    #navbarsect a{
+        padding-right: 16px;
+    }
+    .bannerhead{
+        font-family: 'IM Fell DW Pica', serif;
+        font-size: 35px;
+        color: #fff;
+    }
+    .bannertext{
+        font-family: 'IM Fell DW Pica', serif;
+        font-size: 30px;
+        letter-spacing: 0;
+        font-weight: 100;
+        color: #fff;
+    }
+    .headbanner{
+        font-family: 'IM Fell DW Pica', serif;
+        font-size: 30px;
+        color: #fff;
+    }
+}
+@media screen and (max-width: 425px) {
+    .heighthere{
+        height:80vh;
+    }
+}
